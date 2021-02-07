@@ -1,0 +1,106 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+    
+}
+
+#tituloContenedor{
+    position: relative;
+    z-index: 5;
+    width: 100%;
+    margin-bottom: 10px;
+    left: 0;
+    
+
+}
+
+.links{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  
+}
+
+.row{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    width: 75%;
+    
+
+}
+
+.link{
+    text-decoration: none;
+    background-color: pink;
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid royalblue;
+    
+}
+
+#contact{
+    text-decoration: none;
+}
+
+
+.diseños{
+    text-decoration: none;
+}
+#titulo{
+    background-color: black;
+    color: blanchedalmond;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: top;
+    padding-top: 10px;
+}
+
+.col{
+    margin-left: 50px;
+}
+
+.box-precios{
+    height: 100%;
+    width: 100%;
+    margin: 50px;
+    margin-bottom: 5%;
+    padding-left: 15%;
+}
+
+.tarjeta{
+    height: 50%;
+    width: 10%;
+    margin-left: 4%;
+    background-color: lightsalmon;
+    float: left;
+}
+
+.texto{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+.diseños{
+    height: 100px;
+    width: 300px;
+    margin-left: 40%;
+
+}
+
+#diseños{
+    margin-top: 5%;
+    margin-left: 46%;
+}
+
+#precios{
+    margin-left: 46%;
+}
