@@ -1,0 +1,1 @@
+alert ("Clickea aceptar para avanzar");
